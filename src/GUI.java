@@ -70,6 +70,7 @@ public class GUI {
              if (press.equals(button2)){
                 newrandom();
                 gissningar = 1;
+                validator.setText("a new guess has been added!");
             }
 
         }
